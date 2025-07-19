@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # Perceptron GUI
 
 This is a Perceptron with JavaFX GUI and error chart to observe the SGD training.
